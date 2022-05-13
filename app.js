@@ -15,7 +15,7 @@ navSlide();
 
 //For our Weather API
 let weather = {
-    apiKey: "4b2ee315dec6dfa95ea86045e24491e5",
+    apiKey: "API KEY GOES HERE!!!",
     fetchWeather: function (city) {
         fetch(
             "https://api.openweathermap.org/data/2.5/weather?q="
